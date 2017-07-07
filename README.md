@@ -1,3 +1,4 @@
+This is a fork verison which is used by swagger-express-middleware-with-chance
 JSON Schema $Ref Parser
 ============================
 #### Parse, Resolve, and Dereference JSON Schema $ref pointers
